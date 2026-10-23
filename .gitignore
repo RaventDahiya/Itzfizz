@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+
+# local environment files
+.env*
+
+# Vercel
+.vercel/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
